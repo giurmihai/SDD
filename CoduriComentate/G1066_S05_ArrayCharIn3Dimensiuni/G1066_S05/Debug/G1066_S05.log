@@ -1,6 +1,6 @@
 ﻿  Source.c
-D:\Facultate\SDD\RecapExamen\DS2022-master\G1066_S05\G1066_S05\Source.c(26,20): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
-D:\Facultate\SDD\RecapExamen\DS2022-master\G1066_S05\G1066_S05\Source.c(26,16): warning C4024: 'memset': different types for formal and actual parameter 2
-D:\Facultate\SDD\RecapExamen\DS2022-master\G1066_S05\G1066_S05\Source.c(28,24): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
-D:\Facultate\SDD\RecapExamen\DS2022-master\G1066_S05\G1066_S05\Source.c(28,20): warning C4024: 'memset': different types for formal and actual parameter 2
-  G1066_S05.vcxproj -> D:\Facultate\SDD\RecapExamen\DS2022-master\G1066_S05\Debug\G1066_S05.exe
+D:\Facultate\SDD\RecapExamen\Github\SDD\CoduriComentate\G1066_S05_ArrayCharIn3Dimensiuni\G1066_S05\Source.c(28,20): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+D:\Facultate\SDD\RecapExamen\Github\SDD\CoduriComentate\G1066_S05_ArrayCharIn3Dimensiuni\G1066_S05\Source.c(28,16): warning C4024: 'memset': different types for formal and actual parameter 2
+D:\Facultate\SDD\RecapExamen\Github\SDD\CoduriComentate\G1066_S05_ArrayCharIn3Dimensiuni\G1066_S05\Source.c(30,24): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+D:\Facultate\SDD\RecapExamen\Github\SDD\CoduriComentate\G1066_S05_ArrayCharIn3Dimensiuni\G1066_S05\Source.c(30,20): warning C4024: 'memset': different types for formal and actual parameter 2
+  G1066_S05.vcxproj -> D:\Facultate\SDD\RecapExamen\Github\SDD\CoduriComentate\G1066_S05_ArrayCharIn3Dimensiuni\Debug\G1066_S05.exe

@@ -70,7 +70,7 @@ void main()
 		{
 			if (catalogue[i]) { // Daca avem cuvinte cu litera respectiva
 				printf("Group %c\n", i + 'A'); 
-				for (int j = 1; j <= freq[i]; j++) // Afisam toate cuvintele de la litera aia.
+				for (int j = 0; j < freq[i]; j++) // Afisam toate cuvintele de la litera aia.
 					printf("Name: %s\n", catalogue[i][j]);
 			}
 		}
