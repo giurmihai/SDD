@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\Facultate\SDD\RecapExamen\Github\SDD\07.06.2021_EN_0730\07.06.2021_EN_0730\Source.c(165,1): warning C4029: declared formal parameter list different from definition
+D:\Facultate\SDD\RecapExamen\Github\SDD\07.06.2021_EN_0730\07.06.2021_EN_0730\Source.c(167,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+D:\Facultate\SDD\RecapExamen\Github\SDD\07.06.2021_EN_0730\07.06.2021_EN_0730\Source.c(169,1): warning C4047: 'initializing': 'char **' differs in levels of indirection from 'char *'
+D:\Facultate\SDD\RecapExamen\Github\SDD\07.06.2021_EN_0730\07.06.2021_EN_0730\Source.c(171,8): warning C4101: 'rezultat': unreferenced local variable
+  07.06.2021_EN_0730.vcxproj -> D:\Facultate\SDD\RecapExamen\Github\SDD\07.06.2021_EN_0730\Debug\07.06.2021_EN_0730.exe

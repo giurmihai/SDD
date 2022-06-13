@@ -1,0 +1,15 @@
+1,75,SDD,267,10.0
+2,75,Java,268,10.0
+3,75,SGBD,269,11.2
+4,75,PEAG,280,10.5
+7,75,BPC,268,10.0
+6,75,BTI,261,9.5
+5,75,Analiza,262,9.998
+8,75,Algebra,268,13.0
+9,75,Statistica,234,5.0
+13,75,POO,223,100.0
+11,75,Statistica Macroeconomica,247,150.0
+12,75,Baze de date,298,1.25
+10,75,Cocaina pe Roti(Micro / Probabilitati),167,5.32
+14,75,Economie,567,10.0
+15,75,CTS,667,10.0
