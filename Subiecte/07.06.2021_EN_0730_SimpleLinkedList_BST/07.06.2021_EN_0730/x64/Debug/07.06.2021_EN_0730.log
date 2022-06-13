@@ -1,0 +1,8 @@
+﻿  Source.c
+D:\Facultate\SDD\TEMAPUNCTEINPLUS\07.06.2021_EN_0730\07.06.2021_EN_0730\Source.c(75,55): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+D:\Facultate\SDD\TEMAPUNCTEINPLUS\07.06.2021_EN_0730\07.06.2021_EN_0730\Source.c(75,46): warning C4024: 'createInfo': different types for formal and actual parameter 2
+D:\Facultate\SDD\TEMAPUNCTEINPLUS\07.06.2021_EN_0730\07.06.2021_EN_0730\Source.c(75,74): warning C4020: 'createInfo': too many actual parameters
+D:\Facultate\SDD\TEMAPUNCTEINPLUS\07.06.2021_EN_0730\07.06.2021_EN_0730\Source.c(155,26): warning C4028: formal parameter 1 different from declaration
+D:\Facultate\SDD\TEMAPUNCTEINPLUS\07.06.2021_EN_0730\07.06.2021_EN_0730\Source.c(155,56): warning C4028: formal parameter 3 different from declaration
+D:\Facultate\SDD\TEMAPUNCTEINPLUS\07.06.2021_EN_0730\07.06.2021_EN_0730\Source.c(156,1): warning C4029: declared formal parameter list different from definition
+  07.06.2021_EN_0730.vcxproj -> D:\Facultate\SDD\TEMAPUNCTEINPLUS\07.06.2021_EN_0730\x64\Debug\07.06.2021_EN_0730.exe
