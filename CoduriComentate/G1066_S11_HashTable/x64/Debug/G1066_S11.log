@@ -1,0 +1,7 @@
+﻿  Source.c
+D:\Facultate\SDD\RecapExamen\CoduriComentate\G1066_S11_HashTable\Source.c(72,20): warning C4013: 'fhash' undefined; assuming extern returning int
+D:\Facultate\SDD\RecapExamen\CoduriComentate\G1066_S11_HashTable\Source.c(90,28): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+D:\Facultate\SDD\RecapExamen\CoduriComentate\G1066_S11_HashTable\Source.c(90,24): warning C4024: 'memset': different types for formal and actual parameter 2
+D:\Facultate\SDD\RecapExamen\CoduriComentate\G1066_S11_HashTable\Source.c(120,29): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+D:\Facultate\SDD\RecapExamen\CoduriComentate\G1066_S11_HashTable\Source.c(120,25): warning C4024: 'memset': different types for formal and actual parameter 2
+  G1066_S11.vcxproj -> D:\Facultate\SDD\RecapExamen\CoduriComentate\G1066_S11_HashTable\x64\Debug\G1066_S11.exe

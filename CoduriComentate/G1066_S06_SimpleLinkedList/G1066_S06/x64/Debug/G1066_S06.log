@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\Facultate\SDD\RecapExamen\CoduriComentate\G1066_S06\G1066_S06\Source.c(118,28): warning C4028: formal parameter 1 different from declaration
+D:\Facultate\SDD\RecapExamen\CoduriComentate\G1066_S06\G1066_S06\Source.c(86): warning C4716: 'extractListTail': must return a value
+  G1066_S06.vcxproj -> D:\Facultate\SDD\RecapExamen\CoduriComentate\G1066_S06\x64\Debug\G1066_S06.exe

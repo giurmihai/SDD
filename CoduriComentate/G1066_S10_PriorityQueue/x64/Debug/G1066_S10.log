@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\Facultate\SDD\RecapExamen\CoduriComentate\G1066_S10\Source.c(74,29): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+D:\Facultate\SDD\RecapExamen\CoduriComentate\G1066_S10\Source.c(74,25): warning C4024: 'memset': different types for formal and actual parameter 2
+D:\Facultate\SDD\RecapExamen\CoduriComentate\G1066_S10\Source.c(82,19): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+D:\Facultate\SDD\RecapExamen\CoduriComentate\G1066_S10\Source.c(82,15): warning C4024: 'memset': different types for formal and actual parameter 2
+  G1066_S10.vcxproj -> D:\Facultate\SDD\RecapExamen\CoduriComentate\G1066_S10\x64\Debug\G1066_S10.exe
