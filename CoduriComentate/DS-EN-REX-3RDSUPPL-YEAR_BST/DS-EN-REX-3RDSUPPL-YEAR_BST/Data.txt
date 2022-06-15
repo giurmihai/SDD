@@ -1,0 +1,11 @@
+1,120.0,Ene Flavian,2/10/2022,3,Bucuresti
+2,150.0,Giur,2/11/2022,2,Brasov
+3,121.0,Stefi,2/12/2022,1,Targoviste
+4,123.0,Theia,21/12/2022,1,Bacau
+5,126.0,Dodi,20/12/2022,1,Galatz
+6,123.4,Costin,22/12/2022,4,Muzeu
+7,920.0,Giur,27/10/2022,1,Flav
+8,120.5,Ioana,23/12/2022,2,Bucuresti
+9,122.0,Doinea,24/12/2022,3,Calarasi
+10,220.0,Critoma,25/10/2022,3,Galaxia Andromeda
+11,1220.0,Iancu,26/10/2022,2,Bucuresti

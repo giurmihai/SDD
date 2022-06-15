@@ -1,0 +1,5 @@
+﻿  Source.c
+D:\Facultate\SDD\RecapExamen\Github\SDD\CoduriComentate\S09_Stack\S09_Stack\Source.c(89,22): warning C4133: '=': incompatible types - from 'Employee *' to 'Stack *'
+D:\Facultate\SDD\RecapExamen\Github\SDD\CoduriComentate\S09_Stack\S09_Stack\Source.c(123,17): warning C4133: 'return': incompatible types - from 'Stack *' to 'Employee *'
+D:\Facultate\SDD\RecapExamen\Github\SDD\CoduriComentate\S09_Stack\S09_Stack\Source.c(162,28): warning C4028: formal parameter 1 different from declaration
+  S09_Stack.vcxproj -> D:\Facultate\SDD\RecapExamen\Github\SDD\CoduriComentate\S09_Stack\x64\Debug\S09_Stack.exe

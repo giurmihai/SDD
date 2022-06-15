@@ -1,0 +1,5 @@
+﻿  Source.c
+D:\Facultate\SDD\RecapExamen\Github\SDD\CoduriComentate\S08_DoubleLinkedList\S08_DoubleLinkedList\Source.c(101,1): warning C4090: 'initializing': different 'const' qualifiers
+D:\Facultate\SDD\RecapExamen\Github\SDD\CoduriComentate\S08_DoubleLinkedList\S08_DoubleLinkedList\Source.c(127,1): warning C4090: 'initializing': different 'const' qualifiers
+D:\Facultate\SDD\RecapExamen\Github\SDD\CoduriComentate\S08_DoubleLinkedList\S08_DoubleLinkedList\Source.c(202,19): warning C4028: formal parameter 1 different from declaration
+  S08_DoubleLinkedList.vcxproj -> D:\Facultate\SDD\RecapExamen\Github\SDD\CoduriComentate\S08_DoubleLinkedList\x64\Debug\S08_DoubleLinkedList.exe

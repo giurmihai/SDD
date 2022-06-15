@@ -1,0 +1,10 @@
+cod1,35,Bucuresti,250
+cod2,21,Argentina,150
+cod3,22,Cluj,235
+cod4,23,Milano,50
+cod5,24,Brasov,23
+cod6,25,Meresti,87
+cod7,20,Buzau,73
+cod8,27,Iasi,135
+cod9,28,Berlin,492
+cod10,36,Alcatraz,1
